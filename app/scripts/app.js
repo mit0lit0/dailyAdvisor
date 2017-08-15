@@ -42,7 +42,7 @@ angular
         controllerAs: 'vm'
       })
       .state('details', {
-        url: '/details',
+        url: '/details/:id',
         templateUrl: 'scripts/details/details.html',
         controller: 'DetailsCtrl',
         controllerAs: 'vm',

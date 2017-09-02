@@ -41,6 +41,12 @@ angular
         controller: 'MainCtrl',
         controllerAs: 'vm'
       })
+      .state('list', {
+        url: '/list/:category',
+        templateUrl: 'scripts/list/list.html',
+        controller: 'ListCtrl',
+        controllerAs: 'vm'
+      })
       .state('details', {
         url: '/details/:id',
         templateUrl: 'scripts/details/details.html',
@@ -49,7 +55,6 @@ angular
         params: {
           data: null
         }
-
       });
   })
   .controller('mainCtrl', function($translate){

@@ -11,19 +11,13 @@ Cerrajero
 Carpintero
 Viveros
 
-
-
 Carniceria
 Fruteria
 Pescaderia
 
-
-
-
-
 Abogados
 Notarios
-Autos ocasion 
+Autos ocasion
 Peluqueria
 Guarderia
 Profesor particular
@@ -33,10 +27,8 @@ Imprentas
 Desarollo web
 
 
-
-
 # EVAULAR
 * Servicio
 * Calidad/Precio
 * (Velocidad)
-* 
+*

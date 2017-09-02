@@ -20,6 +20,10 @@ angular.module('App')
       name:'Ejemplo2'
     }];
 
+    this.goToList = function(categ){
+      $state.go('list', {category:categ})
+    }
+
     this.detailSelected = function(){
         console.log('i should search');
     };

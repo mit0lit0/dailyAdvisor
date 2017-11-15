@@ -15,7 +15,7 @@ angular.module('App')
     //MS CALL category
 
     this.listArray = [{
-      name:'Sample name',
+      name:'asdasdasd',
       description:'Just a description',
       starts:2,
       reviews:3,
